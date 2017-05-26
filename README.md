@@ -11,7 +11,7 @@ This is the first version, I might tweak it a little bit. Let me know what you t
 I hope you like it! :-)
 
 **SCREENSHOT**
-![Screenshot](Screenshot_from_2017-05-24_18_06_16.png)
+![Screenshot](Screenshot_from_2017-05-26_14_30_40.png)
 
 **INSTALLATION**
 - Download the theme from the releases page and unzip or clone the repository
